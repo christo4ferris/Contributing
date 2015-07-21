@@ -4,4 +4,6 @@ is a very simple step, include a line modeled after this line:
 as part of your pull request comments. By doing this one simple thing you are telling 
 the community that you wrote the code you are contributing or have the right to pass 
 on the code that you are contributing. If you are interested in the text of the 
-DCO 1.1, you can find it [here](https://developer.ibm.com/open/developer-certificate-of-originality/ "DCO 1.1")
+DCO 1.1, you can find it [here](https://developer.ibm.com/open/developer-certificate-of-originality/ "DCO 1.1").
+
+Thank you!
